@@ -7,6 +7,9 @@ Criação para fins de aprendizado, sinta-se a vontade para clonar o repositóri
 - Express
 - Firebase
 - Firestore
+- Typescript
+- Cors
+- Morgan
 
 ### Como usar
 
@@ -14,6 +17,7 @@ Criação para fins de aprendizado, sinta-se a vontade para clonar o repositóri
  - Clone o repo utilizando o git clone "url do repo"
  - Execute um yarn para que sejam instaladas as dependencias utilizadas
  - Voce precisará criar um projeto no firebase e adicionar suas credenciais dentro do projeto para que a integração com o banco de dados funcione
+ - Em ambiente de desenvolvimento executará com o comando "yarn dev" e após a hospedagem dessa API e ela estiver em ambiente de produção será o comando "yarn start"
 
 ### Duvidas
 
